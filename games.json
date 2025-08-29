@@ -3,5 +3,45 @@
         "name": "Level Devil",
         "slug": "level-devil",
         "image": "/cache/data/image/game/level-devil/level-devil-m186x186.webp"
+    },
+    {
+        "name": "Level Devil 2",
+        "slug": "level-devil-2",
+        "image": "/cache/data/image/game/level-devil-2/level-devil-2-m186x186.webp"
+    },
+    {
+        "name": "Super Mario Bros",
+        "slug": "super-mario-bros",
+        "image": "/cache/data/image/game/super-mario-bros/super-mario-bros-2-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash",
+        "slug": "geometry-dash",
+        "image": "/cache/data/image/game/geometry-dash/geometry-dash-1-m186x186.webp"
+    },
+    {
+        "name": "Devil Duck: Not a Troll Game",
+        "slug": "devil-duck-not-a-troll-game",
+        "image": "/cache/data/image/game/devil-duck-not-a-troll-game/devil-duck-not-a-troll-game-m186x186.webp"
+    },
+    {
+        "name": "Level Devil 3D",
+        "slug": "level-devil-3d",
+        "image": "/cache/data/image/game/level-devil-3d/level-devil-3d-3-m186x186.webp"
+    },
+    {
+        "name": "Tomb Of The Mask",
+        "slug": "tomb-of-the-mask",
+        "image": "/cache/data/image/game/tomb-of-the-mask/tomb-of-the-mask-m186x186.webp"
+    },
+    {
+        "name": "Fireboy and Watergirl 1: Forest Temple",
+        "slug": "fireboy-and-watergirl-1-forest-temple",
+        "image": "/cache/data/image/game/fireboy-and-watergirl-1-forest-temple/fireboy-and-watergirl-1-m186x186.webp"
+    },
+    {
+        "name": "Devil Dash",
+        "slug": "devil-dash",
+        "image": "/cache/data/image/game/devil-dash/devil-dash-m186x186.webp"
     }
 ]
